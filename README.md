@@ -23,6 +23,7 @@ project to predict sarcastic comment
   
  feature extraction
   - puntuation feature - count number of punctuation('!', '?', '.')
+  - (!) is sarcastic
   - capitalization - (number of capital characters) - need more clarity
   - emoji count
   - textblob - polarity 
