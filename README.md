@@ -15,7 +15,7 @@ project to predict sarcastic comment
   - slang dictionary
 
  preprocess the data
-  - replace the words within * * by capital letters and remove the * from comment
+  - replace the words within * * by capital letters and remove the * from comment 
   - map words of slang dictionary and replace with tokens
   - tokenization 
   - lametization
@@ -25,7 +25,7 @@ project to predict sarcastic comment
   - puntuation feature - count number of punctuation('!', '?', '.')
   - (!) is sarcastic
   - capitalization - (number of capital characters) - need more clarity
-  - emoji count
+  - emoji count - Number of positive emoji and negative emoji
   - textblob - polarity 
   - textblob - subjectivity
   - number of interjections
@@ -36,6 +36,11 @@ project to predict sarcastic comment
  classifier algorithm 
   - gradient boosting
   - random forest
+  
+  -------------------------------------
+  
+  tokenization,pos tagging, num of interjections, - Nayana ------- (pattern related feature)
+  18,19,25,26 --- Sirisha 27,28,29,30 ---Karuna
   
  PART 2 : 
   neural network - to be discussed
