@@ -29,18 +29,42 @@ project to predict sarcastic comment
   - textblob - polarity 
   - textblob - subjectivity
   - number of interjections
-  - sarcastic word synonyms - need more clarity
-  - pattern related feature - vector of words in the form of phrases - need to discuss more
+  - pattern related feature - recognizing 3 patterns in a comment would lead to 3 million rows in a dataframe which is leading to memory                               error
+  - Adding parent comment sentiment as a feature
   - write to file.
   
  classifier algorithm 
-  - gradient boosting
-  - random forest
+  - gradient boosting - Sirisha
+  - random forest - Karuna
+  - SVM - Nayana
   
   -------------------------------------
   
-  tokenization,pos tagging, num of interjections, - Nayana ------- (pattern related feature)
-  18,19,25,26 --- Sirisha 27,28,29,30 ---Karuna
+  tokenization,pos tagging, num of interjections, - Nayana
+  18,19,25,26 --- Sirisha 
+  27,28,29,30 ---Karuna
   
  PART 2 : 
-  neural network - to be discussed
+  neural network 
+  
+  Prepare the dataset
+    - Remove emoji's,hash tags, punctuations
+    - Slang dictionary replacement - with and without
+    - Convert the words to vector using word2vec or Glove 
+    - Words not present in word2vec or glove are initialized randomly
+    - One Hot Encoding - need to discuss
+    
+  Load the dataset
+  Building the network
+    - Num of layers to use - simple (2)
+    - Activation functions - relu and sigmoid - good for classification tasks, softmax for last layer
+    - Number of hidden neurons
+  
+  Compiling the network
+    - Loss Functions - Binary Cross Entropy, Mean Squared Error
+    - Optimizers - rmsprop,
+    
+  Train the model
+    - Batch Sizes, Epoch (Num of iterations)
+    
+  Validate and calculate the accuracy
