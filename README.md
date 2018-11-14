@@ -45,7 +45,27 @@ project to predict sarcastic comment
   27,28,29,30 ---Karuna
   
  PART 2 : 
-  neural network 
+  neural network
+  
+  Prepare the dataset 
+•	Remove emoji's,hash tags, punctuations 
+•	Slang dictionary replacement - with and without
+•	Convert the words to vector using word2vec or Glove 
+•	Words not present in word2vec or glove are initialized randomly 
+•	One Hot Encoding - need to discuss
+Load the dataset
+Building the network
+•	Num of layers to use - simple (2) 
+•	Activation functions - relu and sigmoid - good for classification tasks, softmax for last layer 
+•	Number of hidden neurons
+Compiling the network
+•	Loss Functions 
+•	Binary Cross Entropy, Mean Squared Error 
+•	Optimizers - rmsprop,
+Train the model 
+•	Batch Sizes, Epoch (Num of iterations)
+Validate and calculate the accuracy
+
   
   Prepare the dataset
     - Remove emoji's,hash tags, punctuations
