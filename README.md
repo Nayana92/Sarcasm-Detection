@@ -38,6 +38,9 @@ project to predict sarcastic comment
   - random forest - Karuna
   - SVM - Nayana
   
+  
+  Accuracy - Check with unbalanced
+  Accuracy - Check with more features
   -------------------------------------
   
   tokenization,pos tagging, num of interjections, - Nayana
