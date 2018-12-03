@@ -68,3 +68,8 @@ project to predict sarcastic comment
     - Batch Sizes, Epoch (Num of iterations)
     
   Validate and calculate the accuracy
+  
+  
+  Neural Network with parent comment - Nayana - try with all different iterations and functions
+  Neural Network without parent comment - Karuna -  try with all different iterations and functions
+  Neural n/w with slang dictionary replacement - Sirisha - without parent comment -  try with all different iterations and functions
