@@ -85,5 +85,5 @@ project to predict sarcastic comment
   - Polarity Flip - Karuna
   
   
-  Glove - Cosine - Embedding features - Nayana
-  Word2Vec - Cosine - Embedding features - Sirisha
+  - Glove - Cosine - Embedding features - Nayana
+  - Word2Vec - Cosine - Embedding features - Sirisha
