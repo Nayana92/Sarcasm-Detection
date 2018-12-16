@@ -78,6 +78,7 @@ project to predict sarcastic comment
   Neural n/w with slang dictionary replacement - Sirisha - without parent comment -  try with all different iterations and functions
   
   
+  
   - Positive Word Count - Karuna
   - Negative Word Count - Karuna
   - Positive Intensifier - Karuna
@@ -96,3 +97,34 @@ project to predict sarcastic comment
   3) Are Word Embedding-based Features Useful for Sarcasm Detection?
   4) A Pattern-Based Approach for Sarcasm Detection on Twitter
   5) Deep Learning Based Sarcasm Detection - Stanford University
+  
+  Sirisha - Run for Glove Word Embeddings
+  
+  Karuna's Neural Network Model - 71% accuracy  - epochs - 10
+    1) Run on test-balanced
+    2) Run on trainable=True
+    3) Run on raw/non clean - if time permits
+    4) Run on parent - if time permits
+    
+  Sirisha's Model LSTM - 73% accuracy - epochs - 2
+    1) Run on test-balanced
+    2) Run on Trainable=True
+    3) Run on raw/non clean - if time permits
+    4) Run on parent comment - if time permits
+    
+  Nayana's Neural Network Model - 70% accuracy - epochs - 3 or 4
+    1) Run on test balanced
+    2) Run on Trainable=True
+    3) Run on raw/non clean - if time permits
+    4) Run on parent comment - if time permits
+    
+ Hand Crafted Features - on actual test balanced with parent comment - Nayana
+ 
+ Test added features on test-balanced - karuna
+ - Positive Word Count - Karuna
+  - Negative Word Count - Karuna
+  - Positive Intensifier - Karuna
+  - Negative Intensifier - Karuna
+  - Polarity Flip - Karuna
+ 
+ Demo part - Karuna (Hand Crafted Predict)
