@@ -101,22 +101,22 @@ project to predict sarcastic comment
   - Sirisha - Run for Glove Word Embeddings
   
   Karuna's Neural Network Model - 71% accuracy  - epochs - 10
-    - Run on test-balanced
-    - Run on trainable=True
-    - Run on raw/non clean - if time permits
-    - Run on parent - if time permits
+  - Run on test-balanced
+  - Run on trainable=True
+  - Run on raw/non clean - if time permits
+  - Run on parent - if time permits
     
   Sirisha's Model LSTM - 73% accuracy - epochs - 2
-    - Run on test-balanced
-    - Run on Trainable=True
-    - Run on raw/non clean - if time permits
-    - Run on parent comment - if time permits
+  - Run on test-balanced
+  - Run on Trainable=True
+  - Run on raw/non clean - if time permits
+  - Run on parent comment - if time permits
     
   Nayana's Neural Network Model - 70% accuracy - epochs - 3 or 4
-    - Run on test balanced
-    - Run on Trainable=True
-    - Run on raw/non clean - if time permits
-    - Run on parent comment - if time permits
+  - Run on test balanced
+  - Run on Trainable=True
+  - Run on raw/non clean - if time permits
+  - Run on parent comment - if time permits
     
  - Hand Crafted Features - on actual test balanced with parent comment - Nayana
  
