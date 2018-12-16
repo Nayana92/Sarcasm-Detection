@@ -76,3 +76,55 @@ project to predict sarcastic comment
   Neural Network with parent comment - Nayana - try with all different iterations and functions
   Neural Network without parent comment - Karuna -  try with all different iterations and functions
   Neural n/w with slang dictionary replacement - Sirisha - without parent comment -  try with all different iterations and functions
+  
+  
+  
+  - Positive Word Count - Karuna
+  - Negative Word Count - Karuna
+  - Positive Intensifier - Karuna
+  - Negative Intensifier - Karuna
+  - Polarity Flip - Karuna
+  
+  
+  - Glove - Cosine - Embedding features - Nayana
+  - Word2Vec - Cosine - Embedding features - Sirisha
+  
+  
+  Papers:
+  
+  - A Deeper Look into Sarcastic Tweets Using Deep Convolutional Neural Networks
+  - Sentiment analysis for sarcasm detection on streaming short text data
+  - Are Word Embedding-based Features Useful for Sarcasm Detection?
+  - A Pattern-Based Approach for Sarcasm Detection on Twitter
+  - Deep Learning Based Sarcasm Detection - Stanford University
+  
+  - Sirisha - Run for Glove Word Embeddings
+  
+  Karuna's Neural Network Model - 71% accuracy  - epochs - 10
+  - Run on test-balanced
+  - Run on trainable=True
+  - Run on raw/non clean - if time permits
+  - Run on parent - if time permits
+    
+  Sirisha's Model LSTM - 73% accuracy - epochs - 2
+  - Run on test-balanced
+  - Run on Trainable=True
+  - Run on raw/non clean - if time permits
+  - Run on parent comment - if time permits
+    
+  Nayana's Neural Network Model - 70% accuracy - epochs - 3 or 4
+  - Run on test balanced
+  - Run on Trainable=True
+  - Run on raw/non clean - if time permits
+  - Run on parent comment - if time permits
+    
+ - Hand Crafted Features - on actual test balanced with parent comment - Nayana
+ 
+ Test added features on test-balanced - karuna
+  - Positive Word Count - Karuna
+  - Negative Word Count - Karuna
+  - Positive Intensifier - Karuna
+  - Negative Intensifier - Karuna
+  - Polarity Flip - Karuna
+ 
+ - Demo part - Karuna (Hand Crafted Predict)
