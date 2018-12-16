@@ -87,3 +87,12 @@ project to predict sarcastic comment
   
   - Glove - Cosine - Embedding features - Nayana
   - Word2Vec - Cosine - Embedding features - Sirisha
+  
+  
+  Papers:
+  
+  1) A Deeper Look into Sarcastic Tweets Using Deep Convolutional Neural Networks
+  2) Sentiment analysis for sarcasm detection on streaming short text data
+  3) Are Word Embedding-based Features Useful for Sarcasm Detection?
+  4) A Pattern-Based Approach for Sarcasm Detection on Twitter
+  5) Deep Learning Based Sarcasm Detection - Stanford University
