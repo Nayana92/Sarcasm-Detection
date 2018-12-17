@@ -128,3 +128,24 @@ project to predict sarcastic comment
   - Polarity Flip - Karuna
  
  - Demo part - Karuna (Hand Crafted Predict)
+ 
+ 
+ Presentation:
+ 
+ - Introduction
+ - Literature Review
+ - Data (Train balanced & Test balanced ---- After Cleaning sizes of training and testing)
+ - Approach ( 2 approaches briefly)
+ - Hand Crafted Feature Based approach (Cleaning, preprocessing, features, feeding to classifiers)
+ - Word Embedding features and other 5 features added
+ - Experimental Evaluation: Results actual features with Gradient Boost, Random Forest
+ - Results after adding the additional features
+ - Demo
+ - Analysis of first part of approach
+ - Neural Network Based Approach
+ - List 4 models developed briefly -- CNN1, CNN2, Simple Neural Network(only dense layers),LSTM -- Include model summary screenshots
+ - Experimental Evaluation: Results of all four models - Comparision
+ - Neural Network Analysis
+ - Demo (if time permits)
+ - Conclusion/Future Work
+ 
