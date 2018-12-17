@@ -138,7 +138,7 @@ project to predict sarcastic comment
  - Approach ( 2 approaches briefly)
  - Hand Crafted Feature Based approach (Cleaning, preprocessing, features, feeding to classifiers)
  - Word Embedding features and other 5 features added
- - Experimental Evaluation: Results actual features with Gradient Boost, Random Forest
+ - Experimental Evaluation: Results of actual features with Gradient Boost, Random Forest
  - Results after adding the additional features
  - Demo
  - Analysis of first part of approach
