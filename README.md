@@ -132,20 +132,20 @@ project to predict sarcastic comment
  
  Presentation:
  
- - Introduction
- - Literature Review
- - Data (Train balanced & Test balanced ---- After Cleaning sizes of training and testing)
- - Approach (2 approaches briefly)
- - Hand Crafted Feature Based approach (Cleaning, preprocessing, features, feeding to classifiers)
- - Word Embedding features and other 5 features added
- - Experimental Evaluation: Results of actual features with Gradient Boost, Random Forest
- - Results after adding the additional features
- - Demo
- - Analysis of first part of approach
- - Neural Network Based Approach
- - List 4 models developed briefly -- CNN1, CNN2, Simple Neural Network(only dense layers),LSTM -- Include model summary screenshots
- - Experimental Evaluation: Results of all five models - Comparision of all 4 neural networks with hand crafted accuracy scores
- - Neural Network Analysis
- - Demo (if time permits)
- - Conclusion/Future Work
+ - Introduction - karuna
+ - Literature Review - k 
+ - Data (Train balanced & Test balanced ---- After Cleaning sizes of training and testing) - k
+ - Approach (2 approaches briefly) - s
+ - Hand Crafted Feature Based approach (Cleaning, preprocessing, features, feeding to classifiers) - s
+ - Word Embedding features and other 5 features added - s
+ - Experimental Evaluation: Results of actual features with Gradient Boost, Random Forest - s
+ - Results after adding the additional features - s 
+ - Demo - k 
+ - Analysis of first part of approach - s
+ - Neural Network Based Approach - n
+ - List 4 models developed briefly -- CNN1, CNN2, Simple Neural Network(only dense layers),LSTM -- Include model summary screenshots - n
+ - Experimental Evaluation: Results of all five models - Comparision of all 4 neural networks with hand crafted accuracy scores - n
+ - Neural Network Analysis - n
+ - Demo (if time permits) - k
+ - Conclusion/Future Work - n
  
