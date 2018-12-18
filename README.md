@@ -149,3 +149,14 @@ project to predict sarcastic comment
  - Demo (if time permits) - k
  - Conclusion/Future Work - n
  
+Results adding all features with parent sentiment along with 5 features added - Karuna
+ - Random Forest 
+ - Gradient Boost
+
+Results adding all features including parent sentiment along with word embedding features Word2Vec - Sirisha
+
+Results adding all features including parent sentiment along with word embedding features Glove - Nayana
+
+Results adding all features including parent sentiment along with word2vec word embedding features, 5 features added - Sirisha
+
+Results adding all features including parent sentiment along with glove word embedding features, 5 features added - Nayana
