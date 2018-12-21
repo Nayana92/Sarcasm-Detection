@@ -4,6 +4,7 @@ project to predict sarcastic comment
 Consists of the following files:
 - cleaning the dataset : Data_cleanup.ipynb
 - ML approach with hand crafted features : Handcrafted Features SD.ipynb
+
 CNN approaches:
 - Simple Neural Network Model Word2vec.ipynb
 - 1DConvolution_nayana.ipynb
@@ -11,7 +12,6 @@ CNN approaches:
 - CNN-Model_Karuna.ipynb
 
 Demo script used in presentation
-
 Includes the EmoticonLookupTable.txt with emoticon dictionary, and Slangdictionary.txt with slang dictinary
 The dataset can be found here : http://nlp.cs.princeton.edu/SARC/0.0/main/
 -The dataset considered for training is the train-balanced.csv 
