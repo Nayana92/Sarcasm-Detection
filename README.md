@@ -2,17 +2,17 @@
 project to predict sarcastic comment
 
 Consists of the following files:
-cleaning the dataset : Data_cleanup.ipynb
-ML approach with hand crafted features : Handcrafted Features SD.ipynb
+- cleaning the dataset : Data_cleanup.ipynb
+- ML approach with hand crafted features : Handcrafted Features SD.ipynb
 CNN approaches:
-Simple Neural Network Model Word2vec.ipynb
-1DConvolution_nayana.ipynb
-1DConvolution_nayana_2.ipynb
+- Simple Neural Network Model Word2vec.ipynb
+- 1DConvolution_nayana.ipynb
+- 1DConvolution_nayana_2.ipynb
 //Add karuna's NN
 Includes the EmoticonLookupTable.txt with emoticon dictionary, and Slangdictionary.txt with slang dictinary
 The dataset can be found here : http://nlp.cs.princeton.edu/SARC/0.0/main/
-The dataset considered for training is the train-balanced.csv 
-The dataset considered for testing is the test-balanced.csv
+-The dataset considered for training is the train-balanced.csv 
+-The dataset considered for testing is the test-balanced.csv
 
 Procedure followed with task allocation
  clean the dataset
