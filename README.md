@@ -9,7 +9,7 @@ CNN approaches:
 - 1DConvolution_nayana.ipynb
 - 1DConvolution_nayana_2.ipynb
 - CNN-Model_Karuna.ipynb
-
+Demo script used in presentation
 Includes the EmoticonLookupTable.txt with emoticon dictionary, and Slangdictionary.txt with slang dictinary
 The dataset can be found here : http://nlp.cs.princeton.edu/SARC/0.0/main/
 -The dataset considered for training is the train-balanced.csv 
