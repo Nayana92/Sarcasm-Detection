@@ -5,8 +5,8 @@ Consists of the following files:
 - cleaning the dataset : Data_cleanup.ipynb
 - ML approach with hand crafted features : Handcrafted Features SD.ipynb
 
-CNN approaches:
-- Simple Neural Network Model Word2vec.ipynb
+Neural Network approaches:
+- Simple Neural Network - Sirisha.ipynb
 - 1DConvolution_nayana.ipynb
 - 1DConvolution_nayana_2.ipynb
 - CNN-Model_Karuna.ipynb
