@@ -8,7 +8,8 @@ CNN approaches:
 - Simple Neural Network Model Word2vec.ipynb
 - 1DConvolution_nayana.ipynb
 - 1DConvolution_nayana_2.ipynb
-//Add karuna's NN
+- CNN-Model_Karuna.ipynb
+
 Includes the EmoticonLookupTable.txt with emoticon dictionary, and Slangdictionary.txt with slang dictinary
 The dataset can be found here : http://nlp.cs.princeton.edu/SARC/0.0/main/
 -The dataset considered for training is the train-balanced.csv 
@@ -115,7 +116,7 @@ Procedure followed with task allocation
   
   - Sirisha - Run for Glove Word Embeddings
   
-  Karuna's Neural Network Model - 71% accuracy  - epochs - 10
+  Karuna's Neural Network Model - 71% accuracy  - epochs - 12
   - Run on test-balanced
   - Run on trainable=True
   - Run on raw/non clean - if time permits
